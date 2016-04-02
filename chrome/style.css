@@ -1,0 +1,22 @@
+body {
+	background-image: url("images/1.jpeg");
+	background-position:center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: table;
+	width: 100%;
+	height: 100%;
+}
+
+.quote {
+	color: #41394B;
+	text-align: center;
+	vertical-align: middle;
+	display: table-cell;
+	padding: 0 15%;
+}
+
+h1#quote {
+	#font-family:fantasy;
+	text-shadow: 2px 2px 3px rgba(150,150,150,0.75);
+}
