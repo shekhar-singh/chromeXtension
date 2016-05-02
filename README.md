@@ -1,4 +1,4 @@
-# chromeXtension for u and me
+# chromeXtension for you and me
 
 
 $ git clone https://github.com/shekhar-singh/chromeXtension.git
